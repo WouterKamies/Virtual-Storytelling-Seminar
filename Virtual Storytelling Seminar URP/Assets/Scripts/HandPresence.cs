@@ -42,7 +42,7 @@ public class HandPresence : MonoBehaviour
 			}
 			else
 			{
-				Debug.LogError("Error");
+				//Debug.LogError("Error");
 				spawnedController = Instantiate(controllerPrefabs[0], transform);
 			}
 

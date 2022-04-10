@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - playerCollider
+  - Main Room
+  - Elevator
+  - Illusion Room
+  - Scare Room
+  - Maze Room
   layers:
   - Default
   - TransparentFX
