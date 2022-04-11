@@ -14,7 +14,7 @@ public class DissableRoom : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("playerCollider") && RM.elevatorStatus == true)
+        if (other.CompareTag("playerCollider") /*&& RM.elevatorStatus == true*/)
         {
             Debug.Log("Exited Elevator");
             OnEnterFromElevator.Invoke();

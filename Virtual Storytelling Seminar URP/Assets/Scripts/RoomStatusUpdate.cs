@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class RoomStatusUpdate : MonoBehaviour
 {
-    public RoomManager RM;
+    private RoomManager RM;
 
     public UnityEvent UpdateMaze;
     public UnityEvent UpdateElevator;
