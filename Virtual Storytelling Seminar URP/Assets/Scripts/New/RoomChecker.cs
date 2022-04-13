@@ -6,7 +6,7 @@ using UnityEngine.Events;
 public class RoomChecker : MonoBehaviour
 {
 
-    private RoomManager RM;
+    public RoomManager RM;
 
     public UnityEvent EnterMaze;
     public UnityEvent ExitMaze;
