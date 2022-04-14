@@ -26,6 +26,7 @@ public class RoomSnap : MonoBehaviour
     {
         transform.position = ElevatorExit.position;
         transform.right = ElevatorExit.right;
+        Debug.Log("Snapped to elevator exit");
     }
 
     //MAZE ROOM

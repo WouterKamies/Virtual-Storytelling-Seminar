@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: BTW Studio
-  productName: The Circle of Life
+  productName: Octagon Experience
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -44,9 +44,9 @@ PlayerSettings:
     duration: 2
   - logo: {fileID: 21300000, guid: 9ed6e6bfcbdb55645b7eaa0fe8b614fe, type: 3}
     duration: 2
-  - logo: {fileID: 21300000, guid: 20618773f84f6e24abcdd5beac4e2042, type: 3}
+  - logo: {fileID: 21300000, guid: 065f51995ba8e8548ad606a553c553f9, type: 3}
     duration: 3
-  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 20618773f84f6e24abcdd5beac4e2042,
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 065f51995ba8e8548ad606a553c553f9,
     type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
@@ -141,7 +141,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.1.0
+  bundleVersion: 3.2.1
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
@@ -150,9 +150,17 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: ad4f0be7029d8db459faccdbc15b98ce, type: 2}
-  - {fileID: -2323305742433372499, guid: 9480b36e28f9e2949bf96af6d8b6ba08, type: 2}
-  - {fileID: 6172678339904494670, guid: d43bf1a9df3df0e4e8ee02e803667093, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -170,7 +178,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BTWStudio.TheCircleofLife
+    Android: com.BTWStudio.OctagonExperience
     Standalone: com.UnityTechnologies.com.unity.template-starter-kit
   buildNumber:
     Standalone: 0
@@ -264,7 +272,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 2
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
-  androidSplashScreen: {fileID: 2800000, guid: 20618773f84f6e24abcdd5beac4e2042, type: 3}
+  androidSplashScreen: {fileID: 2800000, guid: d0530268ed3df6c40a79a4b3dc7fe8d6, type: 3}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 0
@@ -289,7 +297,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 20618773f84f6e24abcdd5beac4e2042, type: 3}
+      m_Icon: {fileID: 2800000, guid: c357f8339c0842c45bea6b99fd9eae29, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

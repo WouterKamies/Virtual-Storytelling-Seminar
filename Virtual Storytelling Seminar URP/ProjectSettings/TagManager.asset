@@ -10,6 +10,7 @@ TagManager:
   - Illusion Room
   - Scare Room
   - Maze Room
+  - Button
   layers:
   - Default
   - TransparentFX

@@ -104,6 +104,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_wall_end (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5442196184010897313, guid: 7aa9aa13cb482cd4b9ad408d4f423583,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7aa9aa13cb482cd4b9ad408d4f423583, type: 3}
 --- !u!4 &5487603618179278609 stripped
@@ -478,6 +483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SM_wall_single_aSym
+      objectReference: {fileID: 0}
+    - target: {fileID: 5454455680670523638, guid: f91f4f84044180447a2f93d14abaf9da,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f91f4f84044180447a2f93d14abaf9da, type: 3}
